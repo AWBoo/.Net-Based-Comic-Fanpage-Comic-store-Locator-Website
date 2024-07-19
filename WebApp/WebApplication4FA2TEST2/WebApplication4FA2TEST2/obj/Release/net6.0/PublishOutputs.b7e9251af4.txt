@@ -1,0 +1,7 @@
+C:\Users\Asher\source\repos\WebApplication4FA2TEST2\WebApplication4FA2TEST2\obj\Release\net6.0\PubTmp\Out\WebApplication4FA2TEST2.exe
+C:\Users\Asher\source\repos\WebApplication4FA2TEST2\WebApplication4FA2TEST2\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Asher\source\repos\WebApplication4FA2TEST2\WebApplication4FA2TEST2\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Asher\source\repos\WebApplication4FA2TEST2\WebApplication4FA2TEST2\obj\Release\net6.0\PubTmp\Out\WebApplication4FA2TEST2.dll
+C:\Users\Asher\source\repos\WebApplication4FA2TEST2\WebApplication4FA2TEST2\obj\Release\net6.0\PubTmp\Out\WebApplication4FA2TEST2.deps.json
+C:\Users\Asher\source\repos\WebApplication4FA2TEST2\WebApplication4FA2TEST2\obj\Release\net6.0\PubTmp\Out\WebApplication4FA2TEST2.runtimeconfig.json
+C:\Users\Asher\source\repos\WebApplication4FA2TEST2\WebApplication4FA2TEST2\obj\Release\net6.0\PubTmp\Out\WebApplication4FA2TEST2.pdb

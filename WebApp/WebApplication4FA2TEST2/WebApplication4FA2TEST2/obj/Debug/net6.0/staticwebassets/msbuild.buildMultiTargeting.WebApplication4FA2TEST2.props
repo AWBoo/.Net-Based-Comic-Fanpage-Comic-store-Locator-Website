@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebApplication4FA2TEST2.props" />
+</Project>

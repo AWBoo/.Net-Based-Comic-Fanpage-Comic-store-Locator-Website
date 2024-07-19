@@ -1,0 +1,24 @@
+﻿body {
+
+}
+
+
+.DivNav {
+    background-color: black;
+    color: white;
+}
+
+    /* Style for the navigation links */
+    .DivNav a {
+        float: left;
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+
+        /* Change link color on hover */
+        .navbar a:hover {
+            background-color: green;
+        }

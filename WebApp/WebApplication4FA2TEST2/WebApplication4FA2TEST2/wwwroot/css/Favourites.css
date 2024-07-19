@@ -1,0 +1,11 @@
+﻿body {
+}
+
+.Main {
+    display: flex;
+    padding: 30px;
+}
+
+.SubDiv{
+    padding-left: 40px;
+}

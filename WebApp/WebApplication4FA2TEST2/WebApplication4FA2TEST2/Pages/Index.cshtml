@@ -1,0 +1,40 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+        }
+
+        .MainDiv {
+            text-align: center;
+            background-image: url('/css/MainPageImage.jpg'); /* Adjust the path as needed */
+            background-size: cover;
+            background-position: center;
+            height: 100%; /* Set the height to 100% to fill the viewport */
+        }
+
+        .content {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            color: #fff;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="MainDiv">
+        <img src="/css/MainPageImage.jpg" height="500" width="600"/>
+    </div>
+</body>
+</html>
